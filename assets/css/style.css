@@ -194,12 +194,21 @@ h1, .h1{
     border-color: #e4000e;
     color: #fff;
 }
+.btn-danger:hover{
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
+}
 .btn-dark{
     background-color: #000;
     border-color: #000;
     color: #fff;
 }
-
+.btn-dark:hover{
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+}
 /* pages css start */
 /* header{
     z-index: 99;
