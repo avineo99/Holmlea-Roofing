@@ -234,7 +234,7 @@ h1, .h1{
 .navbar-nav .nav-link::before{
     content: '';
     position: absolute;
-    bottom: -3px;
+    bottom: -5px;
     left: 0;
     width: 0%;
     height: 2px;
@@ -557,7 +557,7 @@ border: none;
         margin-left: 0;
     }
     .navbar-nav .nav-link {
-        padding: 5px 0 !important;
+        margin: 8px 0 !important;
     }
     .offcanvas-header .btn-close {
         position: absolute;
